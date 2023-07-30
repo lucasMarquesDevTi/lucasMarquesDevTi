@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Me chamo Lucas Marques 😎
 
 - :computer: Techs: 
 ![C#](https://img.shields.io/badge/-C%20sharp-007396?style=flat-square&logo=csharp)
