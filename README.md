@@ -1,16 +1,35 @@
-### Olá! Me chamo Lucas Marques 😎
+<h1 align="center">Fala aí! 👋 Eu sou Lucas Marques</h1>
 
-- :computer: Techs: 
-![C#](https://img.shields.io/badge/-C%20sharp-007396?style=flat-square&logo=csharp)
-![C#](https://img.shields.io/badge/.NET-007396?style=flat-square&logo=.netcore)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-REACT-1572B6?style=flat-square&logo=REACT)
-![Sql Server](https://img.shields.io/badge/-SqlServer-4479A1)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="center">
+  Desenvolvedor focado em construir soluções com qualidade e propósito. <br />
+  Apaixonado por tecnologia, backend, APIs e aquela pitada de frontend também! 😄
+</p>
+
+---
+
+### 🚀 Tecnologias que estudo e utilizo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SqlServer-4479A1"/>
+</p>
+
+---
+
+### ✍️ Um pouco sobre mim
+- 🔭 Atualmente focado em C#, .NET e desenvolvimento web.
+- 🌱 Estudando boas práticas com Clean Code, SOLID, arquitetura de software e banco de dados.
+- 💬 Me chama pra trocar ideia sobre projetos, freelas ou tecnologia em geral!
+
+---
 
 
