@@ -1,35 +1,39 @@
-<h1 align="center">Fala aí! 👋 Eu sou Lucas Marques</h1>
+<h1 align="center">📚 Estudante de Programação</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px" alt="Estudando programação animado" />
+</p>
+
+<p align="center"><i>"Errar, depurar, aprender e repetir. Bem-vindo ao ciclo do programador em formação."</i></p>
+
+---
+
+### 🧭 Minha Jornada Até Agora
+
+- 📘 Aprendendo: `C#`, `.NET`, `SQL`, `MongoDB`, `HTML`, `CSS`, `JavaScript`
+- 🛠️ Praticando com projetos pessoais e desafios
+- 🧠 Estudando conceitos de `Orientação a Objetos`, `APIs REST` e `Banco de Dados`
+- 🧩 Foco atual: evoluir como desenvolvedor backend
+
+---
+
+### 🧠 Tecnologias que estou explorando
 
 <p align="center">
-  Desenvolvedor focado em construir soluções com qualidade e propósito. <br />
-  Apaixonado por tecnologia, backend, APIs e aquela pitada de frontend também! 😄
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-### 🚀 Tecnologias que estudo e utilizo
+### 📜 Filosofia de Estudo
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="ASP.NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-SqlServer-4479A1"/>
-</p>
-
----
-
-### ✍️ Um pouco sobre mim
-- 🔭 Atualmente focado em C#, .NET e desenvolvimento web.
-- 🌱 Estudando boas práticas com Clean Code, SOLID, arquitetura de software e banco de dados.
-- 💬 Me chama pra trocar ideia sobre projetos, freelas ou tecnologia em geral!
-
----
-
-
+```text
+📖 Aprender fazendo é o meu lema.
+🐞 Todo bug traz uma lição.
+💡 Não entendi? Pesquiso, pergunto, pratico.
+🔁 Repetição transforma confusão em compreensão.
